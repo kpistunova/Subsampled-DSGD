@@ -1,5 +1,5 @@
 # Subsampled-DSGD
-The repository of the code base of "Challenges in Scalable Distributed Training of Deep Neural Networks under communication constraints".
+The repository of the code base of "Challenges in Scalable Distributed Training of Deep Neural Networks under communication constraints". Full report can be found here https://cs230.stanford.edu/projects_winter_2021/reports/70762032.pdf 
 
 In the present era of ever-growing datasets and model sizes, distributed training of neural networks has become a crucial
 paradigm. In this project, we will explore the challenges that come up when multiple machines train a model together in
